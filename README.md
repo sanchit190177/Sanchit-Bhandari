@@ -72,14 +72,13 @@
   <a href="https://www.linkedin.com/in/sanchit-bhandari">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sanchitbhandari1901@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50"/>
   </a>
   <a href="https://leetcode.com/u/SanchitBhandari/">
     <img src="https://upload.wikimedia.org/commons/1/19/LeetCode_logo_black.png" width="50"/>
   </a>
 </p>
-)  
 
 ---
 
