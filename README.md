@@ -93,9 +93,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SanchitBhandari&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitBhandari&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>  
 
 ---
 
@@ -104,14 +101,5 @@
 
 ---
 
-## 📌 Featured Projects  
-🚧 *Coming soon...* 🚀  
-
-- 🔥 Data Cleaning & Visualization  
-- 🤖 Machine Learning Models  
-- 📊 Exploratory Data Analysis (EDA)  
-- 📈 Open Source Contributions  
-
----
 
 ✨ *"Learning never exhausts the mind."* ✨  
