@@ -67,9 +67,19 @@
 ---
 
 ## 🌐 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-bhandari)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SanchitBhandari/)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanchit-bhandari">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50"/>
+  </a>
+  <a href="https://leetcode.com/u/SanchitBhandari/">
+    <img src="https://upload.wikimedia.org/commons/1/19/LeetCode_logo_black.png" width="50"/>
+  </a>
+</p>
+)  
 
 ---
 
