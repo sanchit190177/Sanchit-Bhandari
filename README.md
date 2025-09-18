@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif.gif" alt="Banner GIF" width="600px" height="400px" />
+  <img src="Trending GIF dance ufc mma dodge ufc 207 ufc207 mock mocking cocky cant touch this cody garbrandt garbrandt cant touch me.gif" alt="Banner GIF" width="600px" height="400px" />
 </p>
 
 <div align="center">
